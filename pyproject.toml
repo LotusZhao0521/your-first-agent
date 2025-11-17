@@ -16,6 +16,7 @@ dependencies = [
     "litellm>=1.80.0",
     "openai>=2.8.0",
     "openai-agents>=0.5.1",
+    "pydantic-ai>=1.18.0",
     "python-dotenv>=1.2.1",
     "qwen-agent[mcp]>=0.0.31",
     "requests>=2.32.5",
