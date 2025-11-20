@@ -6,7 +6,7 @@ import requests
 
 from fastmcp import FastMCP
 
-mcp_server = FastMCP("finance-news")
+mcp_server = FastMCP("finance")
 
 
 @mcp_server.tool(
