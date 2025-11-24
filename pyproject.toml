@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "akshare>=1.17.87",
     "autogen-agentchat>=0.7.5",
     "autogen-ext[openai]>=0.7.5",
     "fastmcp>=2.13.1",
